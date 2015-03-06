@@ -2,16 +2,14 @@
 
 This document is based on [Reasonable Simple CSS](https://github.com/rstacruz/rscss), [Jonathan Snook's SMACCS](https://smacss.com/), and [CSS Guidelines](http://cssguidelin.es/)
 
-[TOC]
-
 This document will outline the best practices for organizing and styling CSS documents for Brewers Association Projects.
 > ##Overview
 > ###Write Clean Code
 > - [Use tabs over spaces for indents](http://lea.verou.me/2012/01/why-tabs-are-clearly-superior/)
->- 80 character wide columns
->- multi-line CSS
->- indent ruleset to show relation
->- meaningful whitespace
+> - 80 character wide columns
+> - multi-line CSS
+> - indent ruleset to show relation
+> - meaningful whitespace
 > - comment your code
 
 > ###Split CSS files into manageable sizes
@@ -235,10 +233,7 @@ Elements may also have variants.
   > .title { /* ... */ }
   > .category { /* ... */ }
 }
-```a
-
-
-
+```
 
 
 
