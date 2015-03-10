@@ -79,6 +79,14 @@ Explain major blocks of CSS with a Comment Block
  */
 ```
 
+Subsections should have a unique comments style
+
+```less
+/* 5.1 Tables */
+
+//--Another comment style to help break up blocks of content--//
+```
+
 ###Anatomy of a Ruleset
 ```css
 .foo, .foo--bar,
