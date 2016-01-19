@@ -84,7 +84,10 @@ Subsections should have a unique comments style
 ```less
 /* 5.1 Tables */
 
-//--Another comment style to help break up blocks of content--//
+// A 3rd Level Heading
+// ------------------------------------------------------------------ 
+
+//-- Another comment style to help break up blocks of content --//
 ```
 
 ###Anatomy of a Ruleset
