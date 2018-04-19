@@ -1,4 +1,4 @@
-#Brewers Association Coding Standards: CSS
+# Brewers Association Coding Standards: CSS
 
 This document is based on [Reasonable Simple CSS](https://github.com/rstacruz/rscss), [Jonathan Snook's SMACCS](https://smacss.com/), and [CSS Guidelines](http://cssguidelin.es/)
 
@@ -252,5 +252,5 @@ Elements may also have variants.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTczMzkyMzddfQ==
+eyJoaXN0b3J5IjpbMjAxMzU0NTExMSwtMTI1NzMzOTIzN119
 -->
