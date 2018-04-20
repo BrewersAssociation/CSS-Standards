@@ -60,7 +60,7 @@ Begin every new major section of a CSS project with a bookmark:
 ```css
 ////
 //
-//! 1.0 Configuration 
+//! 1.0 Configuration & Reset
 //
 ////
 ```
@@ -91,7 +91,7 @@ Subsections should have a unique comments style
 //-- Another comment style to help break up blocks of content --//
 ```
 
-###Anatomy of a Ruleset
+### Anatomy of a Ruleset
 ```css
 .foo, .foo--bar,
 .baz {
@@ -139,7 +139,7 @@ Use no more than 1 level of nesting. It's easy to get lost with too much nesting
 }
 ```
 ---
-##Structure
+## Structure
 
 ### Think in components
 
@@ -253,6 +253,6 @@ Elements may also have variants.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUwNTk3MDkyLDIwMTM1NDUxMTEsLTEyNT
+eyJoaXN0b3J5IjpbOTUwMjQwNDA1LDIwMTM1NDUxMTEsLTEyNT
 czMzkyMzddfQ==
 -->
