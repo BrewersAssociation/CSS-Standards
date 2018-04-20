@@ -252,7 +252,3 @@ Elements may also have variants.
 
 
 > Written with [StackEdit](https://stackedit.io/).
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQwODQ0MjE3LDIwMTM1NDUxMTEsLTEyNT
-czMzkyMzddfQ==
--->
