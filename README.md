@@ -12,10 +12,10 @@ This document will outline the best practices for organizing and styling CSS doc
 > - meaningful whitespace
 > - comment your code
 
-> ###Split CSS files into manageable sizes
+> ### Split CSS files into manageable sizes
 > - Split discrete chunks of code into their own files, which are concatenated during a build step.
 
->###Separate Structure from design  (BEM like)
+>### Separate Structure from design  (BEM like)
 
 >**We are using a Component Element Variant Model**
 
@@ -25,9 +25,9 @@ This document will outline the best practices for organizing and styling CSS doc
 >
 
 ---
-##Coding Styles
+## Coding Styles
 
-###Comments
+### Comments
 The master CSS file should include a Table of Contents
 
 ```css
@@ -55,13 +55,14 @@ The master CSS file should include a Table of Contents
 **/
 ```
 
-Begin every new major section of a CSS project with a title:
+Begin every new major section of a CSS project with a bookmark:
 
 ```css
-/**
-* 1.0 Configuration and Reset
-*
-**/
+////
+//
+//! 1.0 Configuration 
+//
+////
 ```
 
 Explain major blocks of CSS with a Comment Block
@@ -252,6 +253,6 @@ Elements may also have variants.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcyNDQ3MjM1LDIwMTM1NDUxMTEsLTEyNT
+eyJoaXN0b3J5IjpbNDUwNTk3MDkyLDIwMTM1NDUxMTEsLTEyNT
 czMzkyMzddfQ==
 -->
