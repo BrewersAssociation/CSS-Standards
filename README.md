@@ -213,7 +213,7 @@ Elements may also have variants.
 }
 ```
 ---
-##Layout
+## Layout
 
 ![](https://raw.githubusercontent.com/BrewersAssociation/CSS-Standards/master/images/layouts.png)
 
@@ -253,6 +253,6 @@ Elements may also have variants.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUwMjQwNDA1LDIwMTM1NDUxMTEsLTEyNT
+eyJoaXN0b3J5IjpbMjQwODQ0MjE3LDIwMTM1NDUxMTEsLTEyNT
 czMzkyMzddfQ==
 -->
